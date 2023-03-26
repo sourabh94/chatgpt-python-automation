@@ -16,4 +16,3 @@ Happy hacking...
 
 Credits to :
 TechWorld with Nana https://youtu.be/w-X_EQ2Xva4
-https://gitlab.com/nanuchi/python-automation-chatgpt/-/tree/master/
